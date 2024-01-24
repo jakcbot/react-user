@@ -35,13 +35,13 @@ Install dependencies:
 
 ## Setup
 
-open terminal
+1.open terminal:
 npm install
 
-Set up the database:
+2.Set up the database:
 
 Create a MySQL database and update the connection details in server.js.
-Start the application:
+3.Start the application:
 
 npm start
-Open your browser and navigate to http://localhost:3000 to access the application.
+4.Open your browser and navigate to http://localhost:3000 to access the application.
