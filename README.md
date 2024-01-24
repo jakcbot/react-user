@@ -31,3 +31,17 @@ A simple web application for managing user data.
 - React.js for the frontend.
 - Node.js with Express for the backend.
 - MySQL for database storage.
+Install dependencies:
+
+## Setup
+
+open terminal
+npm install
+
+Set up the database:
+
+Create a MySQL database and update the connection details in server.js.
+Start the application:
+
+npm start
+Open your browser and navigate to http://localhost:3000 to access the application.
